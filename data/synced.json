@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "externalId": "yd-12",
+        "price": 200
+    },
+    {
+        "id": "2",
+        "externalId": "yd-23",
+        "price": 449
+    },
+    {
+        "id": "3",
+        "externalId": "yd-13",
+        "price": 300
+    },
+    {
+        "id": "4",
+        "externalId": "yd-09",
+        "price": 550
+    }
+]
